@@ -34,7 +34,7 @@ const ContactUs = () => {
           <div className="space-y-4">
             <p className="flex items-center text-lg text-gray-700">
               <FaPhoneAlt className="mr-3 text-blue-500" />
-              +62-813-2000-1070
+              (0265)331602
             </p>
             <p className="flex items-center text-lg text-gray-700">
               <FaEnvelope className="mr-3 text-blue-500" />
@@ -42,12 +42,12 @@ const ContactUs = () => {
             </p>
             <p className="flex items-center text-lg text-gray-700">
               <FaMapMarkerAlt className="mr-3 text-blue-500" />
-              Jl. Mayor Utarya No. 11 Tsm 46113 0265-331602
+              Jl. Mayor Utarya No. 11 Tasikmalaya 46113
             </p>
             <p className="flex items-center text-lg text-gray-700">
               <FaClock className="mr-3 text-blue-500" />
               <span>
-                <strong>Jam Operasional TU:</strong> Senin - Jumat, 09:00 - 15:00 WIB
+                <strong>Jam Operasional TU:</strong> Selasa - Minggu, 09:00 - 15:00 
               </span>
             </p>
           </div>

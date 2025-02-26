@@ -16,7 +16,9 @@ const Footer = () => {
               className="h-16 mb-2 bg-transparent"
             />
             <p className="text-gray-400">GKIm Im Ka Im Tong Tasikmalaya</p>
-            <p className="text-gray-400">Jl. Mayor Utarya No. 11 Tsm 46113 0265-331602</p>
+            <p className="text-gray-400">Jl. Mayor Utarya No. 11 46113</p>
+            <p className="text-gray-400">Tasikmalaya, Jawa Barat</p>
+            <p className="text-gray-400">(0265)-331602</p>
 
           </div>
 
